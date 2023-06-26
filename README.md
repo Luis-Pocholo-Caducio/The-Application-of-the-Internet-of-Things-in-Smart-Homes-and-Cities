@@ -1,1 +1,0 @@
-# The-Application-of-the-Internet-of-Things-in-Smart-Homes-and-Cities-

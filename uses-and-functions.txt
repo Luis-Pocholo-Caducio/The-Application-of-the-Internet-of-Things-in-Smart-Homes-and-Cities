@@ -1,0 +1,101 @@
+Uses and Functions
+
+Internet of Things plays a huge role in Smart cities across the world due to its numerous features. A smart city incorporates advanced technology, including a vast network of sensors and interconnected devices, which gather real-time information to improve the efficiency of public services, while saving money and resources (Simmons, 2023). Some of the specified uses and functions, as well as the implementations of IoT in Smart Cities are the following: 
+
+Traffic Management:  
+
+IoT sensors can be used to monitor traffic flow and congestion in real-time. This data can be used to optimize traffic flow and reduce congestion.  
+
+Smart cities’ traffic lights are equipped with heat and moisture-sensitive sensors for monitoring weather-related data for better traffic light control. Then, these sensors will send data to traffic lights across the roads which will adjust the brightness and intensity of the lights of traffic lights, depending on the weather and road visibility of drivers. ight dimming also occurs during day-to-night transitions, as well as due to weather conditions. This is achieved through the signals picked up by the roadside light sensors which can then switch the lights on and off as needed. Traffic lights’ brightness adjustment is also a good utilization of IoT in Smart cities. This feature helps to save energy and prevent accidents caused by blinding lights. IoT systems can also use computer vision-enabled CCTV cameras to monitor and regulate traffic by changing the lights intelligently at the appropriate times (Anand, 2021). 
+
+IoT can be very useful for connecting with vehicle owners and alerting them to impending road conditions. Computer vision-powered cameras often monitor the road for potholes and oil spills. When such systems identify these or any other type of road undulation, they send a digital alert to any incoming vehicle driver via their car's infotainment system. This will help drivers to avoid risky roads and prevent road accidents from occurring. 
+
+Through multiple cameras and sensors across the roads and parking areas, Smart cities can collect data on congestion and improve traffic signaling to reduce blockages and optimize commute, locate incidents and report them to emergency rooms immediately, and transmit accurate information about available parking spaces to citizens in real-time (Rishabh Software, 2023). A parking system that tells the drivers the available parking spaces makes parking more convenient and time efficient. 
+
+Some of the Smart cities’ projects under traffic management with the use of IoT (Insider Intelligence, 2022): 
+
+New York City. New York City is piloting a connected vehicle (CTV) project to help NYC eliminate traffic related deaths and reduce crash related injuries and damage to both the vehicles and infrastructure. The CTV infrastructure is primarily focused on safety applications—relying on vehicle-to-vehicle, vehicle-to-infrastructure, and infrastructure-to-pedestrian communications.  
+
+San Francisco. San Francisco implemented a pilot program, the Smart Traffic Signals Pilot, that will explore the use of Multimodal Intelligent Traffic Signal Systems, Dedicated Short Range Communication, Transit Signal Priority, and Emergency Vehicle Preemption technology to improve safety, reduce collisions, and decrease emergency vehicle response times. 
+
+London. In 2014 Westminster, London deployed a smart parking project, SmartPark, that allows drivers to quickly locate parking spaces and remove the need for lengthy searches for an open spot. This, in turn, alleviates urban traffic congestion. 
+
+Public Safety: 
+
+IoT technologies can be used to monitor public spaces for suspicious activity or potential threats. This data can be used to improve public safety and emergency response times. 
+
+Smart building systems in Smart cities carry out functions such as tracking entries, recording videos that can help authorities investigate cases, as well as monitoring the building’s interior environment. When an emergency is detected, such systems can send alerts to authorized employees and public safety officials (Cogniteq, 2023). 
+
+With the use of IoT devices such as think cameras, carbon monoxide detectors, heat sensors, and fire alarms, with a combined dashboard view, or Common Operating Picture (COP), data can be aggregated, analyzed, and turned into actionable information such as situational reports, then pushed out to first responders en route to support decision-making and help mitigate risk.  
+
+Smart sensors can automatically call 911, for instance, if smoke is detected inside of a building. Additionally, cameras can help detect weapons outside of an office complex and automatically send a notification to the police of a potential incident.  
+
+Public warning systems are yet another set of helpful IoT public safety use cases that aid in both broadcasting and response to large-scale incidents, such as natural disasters. It is vital the public is alerted as soon as possible. IoT sensors can provide an early warning system via linkups with public displays, billboards, connected vehicles, and smartphones (Muncaster, n.d.). 
+
+Smart city that implements IoT for public safety systems: 
+
+Singapore. Singapore is harnessing digital solutions such as Internet of Things (IoT) sensors and video analytics to ensure public safety. Singapore companies have developed innovative robotics and drone solutions that have helped to improve the efficiency of security personnel and enhance public safety (Enterprise Singapore, 2023). 
+
+Urban Sustainability: 
+
+IoT’s purpose in cities is to improve the quality of life of its citizens. It helps to enhance the social, economic, and environmental conditions of Smart cities. IoT sensors can be used to monitor air quality, water quality, noise levels, and more. This data can be used to improve environmental conditions in the city. Additionally, IoT are intended for the betterment of every public facility of Smart cities. 
+
+IoT technologies are helping to improve the efficiency, safety, and comfort of public buildings such as schools, libraries, government facilities, and community centers through automation. The goal with building automation is to enhance the end user’s experience and reduce operating costs, all while providing a more sustainable environment. 
+
+Smart meters are IoT devices that are attached to buildings and connected to a smart energy grid, allowing utility companies to manage energy flow more effectively. Also, smart meters enable users to track their power consumption, leading to more energy usage awareness and potential savings. 
+
+Smart lighting changes the intensity of streetlights based on the movement of vehicles and pedestrians. This results in notable energy savings and reduction of light pollution. Also, installing sensors to detect malfunctioning public lights reduces maintenance costs. 
+
+Air quality data is being used in cities around the world to support urban planning decisions, such as where to locate new buildings and roads, and to develop and enforce air pollution regulations. Smart air quality monitors can detect these particles and inform users of pollutants. Monitoring indoor air quality (IAQ) can better alert people of unsafe pollutant levels via an indicator light or push notifications to one’s smartphone or tablet. 
+
+Smart waste management can improve efficiency and reduce costs by using capacity sensors to track the level of waste held in garbage cans and recycling containers, determining the most efficient pick-up routes for waste management companies or public services. Some smart waste bins, like the EvoEco, can tell users which items should be composted or recycled and can even show messages that share how much an organization can save by recycling. 
+
+Following are Smart cities that utilize IoT for urban sustainability: 
+
+Copenhagen. Copenhagen is trying to become the first carbon-neutral smart city by 2025. Its Nordhavn district uses heating and smart-grid integration to show how electricity and heat, energy-efficient buildings, and electric transport can be integrated into one energy system.  
+
+Guadalajara. A city in Spain that has 13,500 LED lights that were connected to a central management system, reducing street lighting energy consumption by 68%. 
+
+ 
+
+Even in the comfort of our homes, IoT is undeniably useful, these homes that use IoT technology are called smart homes. A smart home refers to a convenient home setup where appliances and devices can be automatically controlled remotely from anywhere with an internet connection using a mobile or other network device (Hayes, 2022).  A smartphone, tablet, laptop, or gaming console serves as the hub from which all the devices in a smart home can be accessed. Through a single home automation system, the homeowner can operate door locks, televisions, thermostats, home monitors, cameras, lights, and even appliances like the refrigerator. The system is installed on a mobile or other networked device, and the user can create time schedules for certain changes to take effect. The following are some of the specific applications of IoT in Smart homes: 
+
+Security and Protection: 
+
+Smart security systems use sensors and cameras to detect motion and sound and alert the homeowner if there is any unusual activity in their home. These systems can also be programmed to turn on lights or sound an alarm if there is a break-in. All IoT home automation can be accessed on its owner’s smartphone even if they are not home, as long as they are connected to the internet.  
+
+These systems can also automatically lock the door when the user goes out, close the shutters, turn off electronic devices and make sure that their home is protected against human and animal trespassers. 
+
+Smart doors can use facial recognition. Any people that are not recognized as residents at the premises will need to be let in by a resident. The doors can further be programmed to open when the user approaches their home and close when they leave. They can further trigger consecutive reactions of other devices in the smart home. A possible sequence of events is that the entrance door recognizes the allowed users and opens, followed by the light switching on; other doors in the home then open, and the TV and coffee machine are turned on (Shapel, 2023). 
+
+Some smart devices like sensors and alarms are specially made to detect water and gas leaks. The owner can design them to automatically notify them through alarms or smartphone notifications as soon as the alarms detect leaks. Some can even go as far as having IoT based home automation that can call an authorized repairman for leak fixes (Campbell, 2022). 
+
+Control and Monitoring: 
+
+Smart home devices can be controlled remotely using a smartphone app or voice commands. The user can monitor their home’s energy usage, water consumption, and more using IoT sensors. Every day, the IoT application collects data about the way a household works, processes it and shows users the most significant insights. 
+
+With temperature control automation, the user can adjust the home temperature to the level that suits them best. Smart thermostats control the temperature based on configurations set by users in accordance with their preferences. These controllers can check the homeowner’s current activity and change the temperature accordingly. 
+
+Smart lighting takes advantage of multiple methods of controlling the lights in your home. That is, the same light can be controlled from the wall switch, from your Smart Home app and through voice-commands and will stay in sync no matter which switching mechanism is used.   
+
+Al and Ml technologies can control the temperature in a smart home, the lighting arrangement, or the security system. 
+
+Sustainability: 
+
+IoT devices can help reduce energy consumption by automatically turning off lights and appliances when they are not in use. Smart thermostats can also adjust the temperature of your home based on your preferences and schedule, helping you save energy. 
+
+With detailed statistics about the work and energy consumption of each smart device, the user can easily optimize their usage and adjust their smart home settings in a more cost-saving way. Homeowners can also allow their smart home system to do everything on its own. The system will shut down the devices which are not in use and reduce power consumption if there is no one at home. 
+
+IoT sensors can monitor air quality levels in smart homes and alert the user if there is a problem. They can also help users track their own carbon footprint by monitoring their energy usage. 
+
+Home Routine and Entertainment: 
+
+Smart home assistants such as Amazon Alexa and Google Home use IoT technology to control various aspects of the user’s home. They can also play music, answer questions, and provide entertainment. 
+
+IoT technology can offer user some news updates, find the information they request on the Internet, send them notifications via the app on the Internet about the purchases they need to make, order them a meal, schedule an appointment, and book users a flight or a hotel. Moreover, the user can check the state of your home automation system from wherever they are. 
+
+Smart mirrors can connect to other devices like laptops and smartphones, recognize the faces of family members in front of them, and display the information those people find interesting, such as news articles, weather forecasts, or specific websites. Special sensors can monitor movement in the bathroom and turn off the water automatically if no one is there. Smart shower controllers can also identify people and set up their preferred water temperature and pressure, and even limit the time in the shower to control water consumption. With automated Jacuzzis, users can take a bath without having to manually adjust their preferred temperature and air-jet regime, or select their favorite music, as the app will do all that automatically. 
+
+Special built-in programs monitor if the users have enough products in the fridge (and reorder them if needed), give advice on recipes, and calculate the nutritional value of meals. There are even smart spoons that remind users to be mindful of eating slowly. 
+
+In addition to smart home assistants, IoT devices can also be used for entertainment purposes. Smart TVs can stream movies and TV shows from various streaming services such as Netflix and Hulu. Smart speakers can play music from various streaming services such as Spotify and Apple Music. 
